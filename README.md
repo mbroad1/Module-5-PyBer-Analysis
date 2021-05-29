@@ -12,4 +12,9 @@ The purpose of this analysis is to create a summary DataFrame of the ride-sharin
 - These relationships tell us that rides in Rural cities are more expensive and rides in Urban cities are less expensive.
    - Potentially, this is due to the fact that there are less drivers in Rural cities and more drivers in Urban Cities, and therefore the availability of drivers (and the demand for rides) drives the prices depending on the type of city.  
 
-![Ride_Sharing_Data]()
+![Ride_Sharing_Data](https://github.com/mbroad1/Module-5-PyBer-Analysis/blob/main/PyBare_fare_summary.png)
+- According to the line chart, the most rides taken for all city types was around the end of February to the beginning of March with Urban cities having a total of $2,500, Suburban cities having a total of around $1,400, and Rural cities have a total of around $400.
+- Another peak time for Rural cities was the beginning of April where the total fare amount was approximately $500.
+- Urban cities consistently have a greater amount of total fares from January to April in comparison to both Suburban cities and Rural cities.
+---
+## Summary:
