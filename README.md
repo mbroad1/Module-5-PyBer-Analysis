@@ -12,4 +12,4 @@ The purpose of this analysis is to create a summary DataFrame of the ride-sharin
 - These relationships tell us that rides in Rural cities are more expensive and rides in Urban cities are less expensive.
    - Potentially, this is due to the fact that there are less drivers in Rural cities and more drivers in Urban Cities, and therefore the availability of drivers (and the demand for rides) drives the prices depending on the type of city.  
 
-![Ride_Sharing_Data](https://github.com/mbroad1/Module-5-PyBer-Analysis/blob/main/PyBer_fare_summary.png)
+![Ride_Sharing_Data]()
